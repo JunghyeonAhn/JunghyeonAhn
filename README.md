@@ -36,7 +36,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/><br/>
 
 ## 📜Certificate 
-- [Google Data Analytics Certificate (Coursera, 2022)](https://coursera.org/share/your-certificate-link)
+- [Google Data Analytics Certificate (Coursera, 2022)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
 
 
 
