@@ -19,10 +19,12 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ro033026@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ro033026@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+
 
 <br/><br/>
 
@@ -39,12 +41,6 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 ## ⚡Study Projects 
 
-
-<br/><br/>
-
-## ⚡Skills
-* I used to utileze tools for cleaning and viweing data with MySQL, Excel, Python.
-* For Visualization 
 
 <br/><br/>
 
