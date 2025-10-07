@@ -13,6 +13,57 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 <br/><br/>
 
+
+
+## ⚡Contents
+
+
+
+<br/><br/>
+
+## ⚡Portfolio Projects 
+### 🛍️ Shopping trend analysis - [My SQL, Tableau] 
+- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-)
+  
+- 📊 **Description:**
+<p align="justify">
+ Analyzed shopping behavior patterns to identify purchase trends between subscribed and non-subscribed users and age segments using SQL. Focused on calculating AOV, revenue distribution, and conversion metrics to uncover business insights from raw transactional data.
+</p>
+
+- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
+- 📈 **Dashboard:**  [Visualization](-)
+
+<br/>
+
+### 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel] 
+- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
+- 📊 **Description:**
+  <p align="justify">
+  Developed a Tableau dashboard analyzing U.S. car market sales between 2022 and 2023. Cleaned and standardized raw Kaggle data, created calculated fields for YoY growth and brand share, and designed interactive visuals highlighting post-pandemic recovery trends across major car brands and regions. 
+  Focused on storytelling through key KPIs such as total sales, monthly growth rate, regional performance, and top 5 brands by market share.
+  </p>
+
+- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/missionjee/car-sales-report)
+- 📈 **Dashboard:**  [Visualization](https://public.tableau.com/app/profile/jung.hyeon.ahn/viz/20222023USACarSalesDashboard/2022-2023USACarSalesTrend)
+
+<br/>
+
+
+
+
+<br/><br/>
+
+## ⚡Study Projects 
+
+
+<br/><br/>
+
+## 📜Certificate 
+- [Google Data Analytics Certificate (Coursera, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
+- [Daterian Basic SQL Certificate (Daterian, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Daterian%20Basic%20SQL%20Certificate.png)
+- [HackerRank (SQL) Basic Certificate (HackerRank, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/HakerRank%20basic%20SQL.png)
+<br/><br/>
+
 ## 🤝Connect 
 <p align="left" style="zoom:1.4;">
   <a href="https://www.linkedin.com/in/junghyeon-ahn/" target="_blank">
@@ -27,27 +78,6 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 
 <br/><br/>
-
-## ⚡Contents
-
-
-
-<br/><br/>
-
-## ⚡Portfolio Projects 
-
-
-<br/><br/>
-
-## ⚡Study Projects 
-
-
-<br/><br/>
-
-## 📜Certificate 
-- [Google Data Analytics Certificate (Coursera, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
-- [Daterian Basic SQL Certificate (Daterian, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Daterian%20Basic%20SQL%20Certificate.png)
-- [HackerRank (SQL) Basic Certificate (HackerRank, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/HakerRank%20basic%20SQL.png)
 
 <!--
 **JunghyeonAhn/JunghyeonAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
