@@ -13,6 +13,19 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 <br/><br/>
 
+## 🤝Connect 
+<p align="left" style="zoom:1.4;">
+  <a href="https://www.linkedin.com/in/junghyeon-ahn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ro033026@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<br/><br/>
+
 ## ⚡Contents
 
 
@@ -36,9 +49,9 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/><br/>
 
 ## 📜Certificate 
-- [Google Data Analytics Certificate (Coursera, 2022)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
-
-
+- [Google Data Analytics Certificate (Coursera, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
+- [Daterian Basic SQL Certificate (Daterian, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Daterian%20Basic%20SQL%20Certificate.png)
+- [HackerRank (SQL) Basic Certificate (HackerRank, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/HakerRank%20basic%20SQL.png)
 
 <!--
 **JunghyeonAhn/JunghyeonAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
