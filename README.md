@@ -36,7 +36,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 
 ### 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel]  - 2024 
-- 📂 **Repository:** [Tableau Dashboard](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
+- 📂 **Repository:** [Preview Tableau Dashboard Project](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
 - 📊 **Description:**
   <p align="justify">
   Developed a Tableau dashboard analyzing U.S. car market sales between 2022 and 2023. Cleaned and standardized raw Kaggle data, created calculated fields for YoY growth and brand share, and designed interactive visuals highlighting post-pandemic recovery trends across major car brands and regions. 
