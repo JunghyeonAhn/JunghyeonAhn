@@ -31,7 +31,10 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
-- 📈 **Dashboard:**  [Visualization](-)
+- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/views/Shoppingtrendvisual-ing/ShopingTrend?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br/>
+<img width="1686" height="1011" alt="Shoping Trend" src="https://github.com/user-attachments/assets/2043eaca-7fc4-4063-93fd-4b2fae22cb96" />
+
 
 <br/>
 
