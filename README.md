@@ -53,11 +53,16 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 <details>
 <summary>👉 <b>Preview</b> </summary>
+<b>2022 - 2023 USA Car Sales Trend</b><br/>
 <img width="1799" height="1011" alt="2022 - 2023 USA Car Sales Trend" src="https://github.com/user-attachments/assets/83336646-b878-4fc8-9f8d-65ea592557ff" />
+<b>Car Sales Trend by Brand</b><br/>
 <img width="1799" height="1011" alt="Car Sales Trend by Brand" src="https://github.com/user-attachments/assets/7c26c660-68d9-426d-8112-20cb34a2a118" />
+<b>Car Sales Trend by Car Types</b><br/>
 <img width="1799" height="1011" alt="Car Sales Trend by Car Types" src="https://github.com/user-attachments/assets/e217d33b-8c56-4662-9bcf-031dd82110b8" />
+<b>Car Sales Trend by Gender</b><br/>
 <img width="1799" height="1011" alt="Car Sales Trend by Gender" src="https://github.com/user-attachments/assets/2d1e4205-965c-4c29-96cf-b441063d233c" />
-<img width="1799" height="1011" alt="Sales Trend by Dealer   Region" src="https://github.com/user-attachments/assets/1d471c6d-51e6-48ee-b5b3-63cd8fb9f265" />
+<b>Sales Trend by Dealer Region</b><br/>
+<img width="1799" height="1011" alt="Sales Trend by Dealer by Region" src="https://github.com/user-attachments/assets/1d471c6d-51e6-48ee-b5b3-63cd8fb9f265" />
   
 </details>
 <br/>
