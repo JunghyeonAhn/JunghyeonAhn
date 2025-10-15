@@ -17,8 +17,8 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 ## ⚡Contents
 - [Portfolio Projects](#Portfolio-Projects)
-- [Project 1: Shopping trend analysis (MySQL, Tableau)](#project-1-shopping-trend-analysis)
-- [Project 2: 2022-2023 The US Car Market Sales Dashboard (Tableau)](#project-2-car-market-sales-dashboard)
+- [Project 1: Shopping trend analysis (MySQL, Tableau)](#-shopping-trend-analysis---my-sql-tableau---2025)
+- [Project 2: 2022-2023 The US Car Market Sales Dashboard (Tableau)](#-2022--2023-the-us-car-market-sales-tableau-dashboard---tableau-excel---2024)
 - [Study Projects](#Study-Projects)
 - [Certificate](#Certificate)
 - [Connect](#Connect)
