@@ -33,7 +33,8 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
 - 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/views/Shoppingtrendvisual-ing/ShopingTrend?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/>
-<img width="1686" height="1011" alt="Shoping Trend" src="https://github.com/user-attachments/assets/2043eaca-7fc4-4063-93fd-4b2fae22cb96" />
+
+<img width="1686" height="1011" alt="Shoping Trend" src="https://github.com/user-attachments/assets/757b32b7-b3c8-41ef-a7f9-f05a02b84d3b" />
 
 
 <br/>
@@ -47,12 +48,15 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
   </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/missionjee/car-sales-report)
-- 📈 **Dashboard:**  [Visualization](https://public.tableau.com/app/profile/jung.hyeon.ahn/viz/20222023USACarSalesDashboard/2022-2023USACarSalesTrend)
+- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/app/profile/jung.hyeon.ahn/viz/20222023USACarSalesDashboard/2022-2023USACarSalesTrend)
+<br/>
+<img width="1799" height="1011" alt="2022 - 2023 USA Car Sales Trend" src="https://github.com/user-attachments/assets/83336646-b878-4fc8-9f8d-65ea592557ff" />
+<img width="1799" height="1011" alt="Car Sales Trend by Brand" src="https://github.com/user-attachments/assets/7c26c660-68d9-426d-8112-20cb34a2a118" />
+<img width="1799" height="1011" alt="Car Sales Trend by Car Types" src="https://github.com/user-attachments/assets/e217d33b-8c56-4662-9bcf-031dd82110b8" />
+<img width="1799" height="1011" alt="Car Sales Trend by Gender" src="https://github.com/user-attachments/assets/2d1e4205-965c-4c29-96cf-b441063d233c" />
+<img width="1799" height="1011" alt="Sales Trend by Dealer   Region" src="https://github.com/user-attachments/assets/1d471c6d-51e6-48ee-b5b3-63cd8fb9f265" />
 
 <br/>
-
-
-
 
 <br/><br/>
 
