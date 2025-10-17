@@ -24,7 +24,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 # ⚡Portfolio Projects 
 ## 🛍️ Shopping trend analysis - [My SQL, Tableau]  - 2025
-- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-)
+- 📂 **Repository:** [SQL Project]([https://github.com/JunghyeonAhn/SQL-Project-](https://github.com/JunghyeonAhn/SQL-Project-/tree/main/Shopping%20trend%20analysis))
   
 - 📊 **Description:**
 <p align="justify">
