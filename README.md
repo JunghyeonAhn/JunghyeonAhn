@@ -1,7 +1,7 @@
 <!-- Header 코드 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Data%20Analyst%20Portfolio&fontSize=50&color=0:ADFF2F,100:7CFC00" width="1200" />
 
-## 🤚 Self Introduction
+# 🤚 Self Introduction
 <p align="justify"> <!-- 줄바꿈 </p> 이거랑 같이 사용 -->
 I was a Junior Data Analyst with a background in CX and a strong focus on improving customer experience through data. Starting my career in a startup, I moved beyond simple operations to design data-driven workflows that directly impacted business outcomes. Key achievements include reducing refund rates by 50% (5.5% → 2.7%) through workflow redesign, building a full GA4 + GTM tracking infrastructure (79 events, 21 triggers) for a new service, and automating repetitive CX processes with Google Apps Script, cutting processing time from 5 minutes to 16 seconds.
 </p>
@@ -15,15 +15,15 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 
 
-## ⚡Contents
+# ⚡Contents
 - [Portfolio Projects](#Portfolio-Projects)
 - [Study Projects](#Study-Projects)
 - [Certificate](#Certificate)
 - [Connect](#Connect)
 <br/><br/>
 
-## ⚡Portfolio Projects 
-### 🛍️ Shopping trend analysis - [My SQL, Tableau]  - 2025
+# ⚡Portfolio Projects 
+## 🛍️ Shopping trend analysis - [My SQL, Tableau]  - 2025
 - 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-)
   
 - 📊 **Description:**
@@ -41,7 +41,20 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 </details>
 <br/>
 
-### 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel]  - 2024 
+## 🛒Online Retail Transaction Analysis - [My SQL, Tableau]  - 2025
+- 📂 **Repository:** [SQL Project]()
+- 📊 **Description:**
+  <p align="justify">
+
+--
+  </p>
+
+- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
+- 📈 **Dashboard:**  [Tableau Visualization]()
+<br/>
+
+
+## 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel]  - 2024 
 - 📂 **Repository:** [Preview Tableau Dashboard Project](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
 - 📊 **Description:**
   <p align="justify">
@@ -68,20 +81,22 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 </details>
 <br/>
 
-<br/><br/>
-
-## ⚡Study Projects 
 
 
 <br/><br/>
 
-## 📜Certificate 
+# ⚡Study Projects 
+
+
+<br/><br/>
+
+# 📜Certificate 
 - [Google Data Analytics Certificate (Coursera, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
 - [Daterian Basic SQL Certificate (Daterian, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Daterian%20Basic%20SQL%20Certificate.png)
 - [HackerRank (SQL) Basic Certificate (HackerRank, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/HakerRank%20basic%20SQL.png)
 <br/><br/>
 
-## 🤝Connect 
+# 🤝Connect 
 <p align="left" style="zoom:1.4;">
   <a href="https://www.linkedin.com/in/junghyeon-ahn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
