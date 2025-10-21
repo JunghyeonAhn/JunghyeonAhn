@@ -42,7 +42,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 
 ## 🛒Online Retail Transaction Analysis - [My SQL, Tableau]  - 2025
-- 📂 **Repository:** [SQL Project]()
+- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Online%20Retail%20Transaction%20Analysis/README.md)
 - 📊 **Description:**
   <p align="justify">
 
