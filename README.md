@@ -27,8 +27,8 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 - 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/tree/main/Shopping%20trend%20analysis)
   
 - 📊 **Description:**
-<p align="justify">
- Analyzed shopping behavior patterns to identify purchase trends between subscribed and non-subscribed users and age segments using SQL. Focused on calculating AOV, revenue distribution, and conversion metrics to uncover business insights from raw transactional data.
+  <p align="justify">
+  Analyzed shopping behavior patterns to identify purchase trends between subscribed and non-subscribed users and age segments using SQL. Focused on calculating AOV, revenue distribution, and conversion metrics to uncover business insights from raw transactional data.
 </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
@@ -45,8 +45,9 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 - 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Online%20Retail%20Transaction%20Analysis/README.md)
 - 📊 **Description:**
   <p align="justify">
+  Through the E-commerce dataset between 2010 and 2011, this project executed an integrated 'Product-Centric Analysis' and 'Customer-Centric Analysis'. Initial steps, focused data cleaning, I identified 135,080 missing values in customerID and cleaned the 2,166 noises in item name’s column.
 
---
+ The subsequent analysis revealed the revenue, aov, item sales across countries and months. Concurrently,  it revealed customer lifetime value, repurchase rate, and purchase pattern by Country, each customer and months. 
   </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
