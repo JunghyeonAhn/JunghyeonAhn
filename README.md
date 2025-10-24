@@ -47,7 +47,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
   <p align="justify">
   Through the E-commerce dataset between 2010 and 2011, this project executed an integrated 'Product-Centric Analysis' and 'Customer-Centric Analysis'. Initial steps, focused data cleaning, I identified 135,080 missing values in customerID and cleaned the 2,166 noises in item name’s column.
 
- The subsequent analysis revealed the revenue, aov, item sales across countries and months. Concurrently,  it revealed customer lifetime value, repurchase rate, and purchase pattern by Country, each customer and months. 
+  The subsequent analysis revealed the revenue, aov, item sales across countries and months. Concurrently,  it revealed customer lifetime value, repurchase rate, and purchase pattern by Country, each customer and months. 
   </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
