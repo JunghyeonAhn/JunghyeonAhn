@@ -51,7 +51,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
   </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
-- 📈 **Dashboard:**  [Tableau Visualization]()
+- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/shared/QMXFD7R7Z?:display_count=n&:origin=viz_share_link)
 <br/>
 
 
