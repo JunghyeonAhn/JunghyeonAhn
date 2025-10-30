@@ -53,7 +53,14 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
 - 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/shared/QMXFD7R7Z?:display_count=n&:origin=viz_share_link)
 <br/>
+<details>
+<summary>👉 <b>Preview</b> </summary>
+<img width="1365" height="767" alt="Online retail - Overview" src="https://github.com/user-attachments/assets/ac4d40b6-2cc0-400f-8750-39e498896ca7" />
+<img width="1365" height="767" alt="Online retail - Order detail" src="https://github.com/user-attachments/assets/99a13217-7c55-4212-8b5f-4a078c31e3db" />
 
+
+</details>
+<br/>
 
 ## 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel]  - 2024 
 - 📂 **Repository:** [Preview Tableau Dashboard Project](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
