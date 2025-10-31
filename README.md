@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Data%20Analyst%20Portfolio&fontSize=50&color=0:ADFF2F,100:7CFC00" width="1200" />
 
-<p align="right">
+<p align="right">👉
   <a href="https://github.com/JunghyeonAhn/-/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Korean_Version-red?style=flat-square" alt="Korean Version Link"/>
   </a>
