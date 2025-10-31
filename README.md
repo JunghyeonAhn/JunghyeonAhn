@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=데이터%20분석%20포트폴리오&fontSize=50&color=0:ADFF2F,100:7CFC00" width="1200" />
 
 <p align="right">
-  <a href="https://github.com/JunghyeonAhn/JunghyeonAhn/README.md" target="_blank">
+  <a href="https://github.com/JunghyeonAhn" target="_blank">
     <img src="https://img.shields.io/badge/English_Version-blue?style=flat-square" alt="English Version Link"/>
   </a>
 </p>
