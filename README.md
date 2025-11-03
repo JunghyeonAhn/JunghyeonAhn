@@ -38,7 +38,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 <details>
 <summary>👉 <b>Preview</b> </summary>
-<img width="1686" height="1011" alt="Shoping Trend" src="https://github.com/user-attachments/assets/757b32b7-b3c8-41ef-a7f9-f05a02b84d3b" />
+<img width="1799" height="1079" alt="Shoping Trend" src="https://github.com/user-attachments/assets/317af477-44d8-482d-8b0c-9494696456bd" />
 
 </details>
 <br/>
