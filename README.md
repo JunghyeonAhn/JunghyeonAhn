@@ -89,11 +89,11 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 </details>
 <br/>
 
-<br/><br/>
+<br/>
 
 # ⚡Work projects
-## Data Tracking Infrastructure- [GA4,GTM,Lookerstudio] - 2024.04 ~ 05 
-- 📂 **Repository:** [Project]()
+## Data Tracking Infrastructure- [GA4,GTM,Lookerstudio] - 2024.03 ~ 04 
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/MKT-C-GA4-GTM-256313eca7d9806d88d5eb8768b1e25f)
   
 - 📊 **Description:**
 - Designed and deployed 79 events and 21 triggers using GA4 and GTM, covering external acquisition (ads, SNS, YouTube) through internal actions (sign-up, payment, learning entry).
@@ -101,11 +101,28 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
   <p align="justify">
 
-</p>
+<br/>
 
-- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
+## Refund Workflow Optimization - 2024.05 ~ 08 
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-259313eca7d9802cad84f8e7e5b9ac31)
+  
+- 📊 **Description:**
+- Designed and implemented a structured system for refund reason collection and categorization, consolidating all customer channels.
+- Reduced refund rate from 5.5% → 2.7% (50% decrease) for Service A and stabilized refund rates at 3–4% for Service B.
+- Improved CX efficiency and converted refund cases into repurchase opportunities.
 
-<br/><br/>
+  <p align="justify">
+
+## CX Automation (Google Apps Script) - 2024.05 ~ 08 
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-80-Google-App-Script-252313eca7d980ef9e7deea1ca425870)
+  
+- 📊 **Description:**
+- Automated repetitive tasks (certificates, receipts, CRM data prep), cutting process time 5 min → 16 sec with zero errors.
+- Removed 90% of off-hour work, boosting team efficiency.
+
+  <p align="justify">
+
+<br/>
 
 # 📜Certificate 
 - [Google Data Analytics Certificate (Coursera, 2024)](https://github.com/JunghyeonAhn/Junghyeon_Ahn/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
