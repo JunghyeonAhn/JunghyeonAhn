@@ -91,7 +91,19 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 <br/><br/>
 
-# ⚡Study Projects 
+# ⚡Work projects
+## Data Tracking Infrastructure- [GA4,GTM,Lookerstudio] - 2024.04 ~ 05 
+- 📂 **Repository:** [Project]()
+  
+- 📊 **Description:**
+- Designed and deployed 79 events and 21 triggers using GA4 and GTM, covering external acquisition (ads, SNS, YouTube) through internal actions (sign-up, payment, learning entry).
+- Delivered real-time dashboards (Looker Studio) for executives and marketing teams.
+
+  <p align="justify">
+
+</p>
+
+- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion?sort=hotness)
 
 <br/><br/>
 
