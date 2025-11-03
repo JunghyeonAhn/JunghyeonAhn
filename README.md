@@ -19,7 +19,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 
 # ⚡Contents
 - [Portfolio Projects](#Portfolio-Projects)
-- [Study Projects](#Study-Projects)
+- [Work projects](#Work-projects)
 - [Certificate](#Certificate)
 - [Connect](#Connect)
 <br/><br/>
