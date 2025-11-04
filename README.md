@@ -63,7 +63,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 
 ## 🎧 Stream Success Factor Analysis and Platform Strategy Optimization - [My SQL, Tableau] - 2025
-- 📂 **Repository:** [SQL Project]()
+- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Stream%20Success%20Factor%20Analysis/README.md)
   
 - 📊 **Description:**
   <p align="justify">
