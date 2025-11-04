@@ -62,6 +62,24 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 </details>
 <br/>
 
+## 🎧 Stream Success Factor Analysis and Platform Strategy Optimization - [My SQL, Tableau] - 2025
+- 📂 **Repository:** [SQL Project]()
+  
+- 📊 **Description:**
+  <p align="justify">
+--
+</p>
+
+- 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
+- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/views/StreamSuccessFactorAnalysisSpotify/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br/>
+<details>
+<summary>👉 <b>Preview</b> </summary>
+--
+
+</details>
+<br/>
+
 ## 🚗 2022 – 2023 The US Car Market Sales Tableau Dashboard - [Tableau, Excel] - 2024 
 - 📂 **Repository:** [Preview Tableau Dashboard Project](https://github.com/JunghyeonAhn/Visualizations/blob/main/assets/Tableau_USA_Car_Market/README.md)
 - 📊 **Description:**
@@ -88,6 +106,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
   
 </details>
 <br/>
+
 
 <br/>
 
