@@ -67,15 +67,15 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
   
 - 📊 **Description:**
   <p align="justify">
---
+Indentifying Key success drivers in the Spotify 2023 dataset by performing 'Comparative analysis of audio features' and 'Platfrom effeciency Analysis' and 'Correlation analysis'. 
 </p>
 
 - 📚 **Dataset:**  [Datasets](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
-- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/views/StreamSuccessFactorAnalysisSpotify/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 📈 **Dashboard:**  [Tableau Visualization](https://public.tableau.com/views/StreamSuccessFactorAnalysisSpotify2023/1_1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/>
 <details>
 <summary>👉 <b>Preview</b> </summary>
---
+<img width="1919" height="1079" alt="스포티파이 대시보드" src="https://github.com/user-attachments/assets/a188adde-3719-4d42-b6b8-27af8c2f64fd" />
 
 </details>
 <br/>
