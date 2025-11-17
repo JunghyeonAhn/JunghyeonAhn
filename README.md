@@ -111,7 +111,8 @@ Indentifying Key success drivers in the Spotify 2023 dataset by performing 'Comp
 <br/>
 
 # ⚡Work projects
-## Data Tracking Infrastructure- [GA4,GTM,Lookerstudio] - 2024.03 ~ 04 | Noisycontents.Inc
+## Data Tracking Infrastructure
+#### [GA4,GTM,Lookerstudio] - 2024.03 ~ 04 | Noisycontents.Inc
 <br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/MKT-C-GA4-GTM-256313eca7d9806d88d5eb8768b1e25f)
   
 - 📊 **Description:**
@@ -122,7 +123,8 @@ Indentifying Key success drivers in the Spotify 2023 dataset by performing 'Comp
 
 <br/>
 
-## Refund Workflow Optimization - 2024.05 ~ 08 | Noisycontents.Inc
+## Refund Workflow Optimization 
+#### 2024.05 ~ 08 | Noisycontents.Inc
 <br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-259313eca7d9802cad84f8e7e5b9ac31)
   
 - 📊 **Description:**
@@ -132,7 +134,8 @@ Indentifying Key success drivers in the Spotify 2023 dataset by performing 'Comp
 
   <p align="justify">
 
-## CX Automation (Google Apps Script) - 2024.05 ~ 08 | Noisycontents.Inc
+## CX Automation (Google Apps Script)
+#### 2024.05 ~ 08 | Noisycontents.Inc
 <br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-80-Google-App-Script-252313eca7d980ef9e7deea1ca425870)
   
 - 📊 **Description:**
