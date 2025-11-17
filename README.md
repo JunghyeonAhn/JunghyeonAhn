@@ -44,7 +44,7 @@ Looking ahead, I aim to leverage my hybrid expertise in CX and data analytics to
 <br/>
 
 ## 🛒Online Retail Transaction Analysis - [My SQL, Tableau] - 2025
-- 📂 **Repository:** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Online%20Retail%20Transaction%20Analysis/README.md)
+- 📂 **Repository:** [SQL / Python Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Online%20Retail%20Transaction%20Analysis/README.md)
 - 📊 **Description:**
   <p align="justify">
   Through the E-commerce dataset between 2010 and 2011, this project executed an integrated 'Product-Centric Analysis' and 'Customer-Centric Analysis'. Initial steps, focused data cleaning, I identified 135,080 missing values in customerID and cleaned the 2,166 noises in item name’s column.
